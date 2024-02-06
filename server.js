@@ -20,7 +20,7 @@ connection.connect((err) => {
 });
 
 // Function to start the application of CFONT 
-cfonts.say('Thomas & Friends \nSQL Employee Tracker', {
+cfonts.say('john \nSQL Employee Tracker', {
 	font: 'block',              // define the font face
 	align: 'left',              // define text alignment
 	colors: ['blue'],         // define all colors
@@ -35,7 +35,7 @@ cfonts.say('Thomas & Friends \nSQL Employee Tracker', {
 	env: 'node'                 // define the environment cfonts is being executed in
 });
 
-// Function to Start Thomas SQL Employee Tracker Application
+// Function to Start john SQL Employee Tracker Application
 function start() {
     inquirer
         .prompt({
