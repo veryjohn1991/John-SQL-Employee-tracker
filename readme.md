@@ -23,7 +23,7 @@
 
 #### Result
 - See SQL Employee Tracker:
-- Preview: ![SQL-Employee-Tracker](<images/Screenshot 2024-01-10 at 11.10.39 PM.png>)
+- video link: https://drive.google.com/file/d/1DujMyW5jDwR7hrWKQswEK--rI2Wt4bcj/view
 - GitHub Link: https://github.com/veryjohn1991/John-SQL-Employee-tracker
 
-Note: Got assistance from Amnindersinghk  and used youtube refferel videos  and google for questions.
+Note: Got assistance from my friend  and used youtube refferel videos  and google for questions.
