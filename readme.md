@@ -1,4 +1,4 @@
-# SQL Employee Tracker Homework
+# john's SQL Employee Tracker Homework
 - The goal of this assignment was to create an employee tracker app to manage a company's employee database using Node.js, inquirer, and MySQL
 
 ### Steps Taken
